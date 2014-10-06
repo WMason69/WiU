@@ -5,6 +5,7 @@ body{
 	font-family: helvetica, arial, sans-serif;
 	color:#000; /*changes color of the whole text*/
 	margin-top: 0;
+	background-color: #156042;
 }
 #wrapper{
 	width:960px;
