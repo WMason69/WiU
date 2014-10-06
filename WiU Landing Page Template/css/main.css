@@ -3,7 +3,7 @@
 body{
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
-	color:#545257; /*changes color of the whole text*/
+	color:#000; /*changes color of the whole text*/
 	margin-top: 0;
 }
 #wrapper{
@@ -14,8 +14,14 @@ body{
 	-webkit-box-shadow: 0px 0px 5px #ececec;
 	-moz-box-shadow:    0px 0px 5px #ececec;
 	box-shadow:         0px 0px 5px #ececec;
+	background-color: #0FBFB0;
 
 }
+
+p	{
+	text-align: justify;
+}
+
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
@@ -24,6 +30,8 @@ header{
 h1{
 	margin-top: 0;
 	padding-top: 10px;
+	color:#fff;
+	
 }
 h2{
 	margin-top: 20px;
